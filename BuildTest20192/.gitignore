@@ -11,7 +11,7 @@ BuildTest20192.xcodeproj
 Makefile
 openFrameworks-Info.plist
 Project.xcconfig
-addons.make
+# addons.make
 
 # Win
 BuildTest20192.sdf
@@ -19,7 +19,7 @@ BuildTest20192.sln
 BuildTest20192.vcxproj
 BuildTest20192.vcxproj.filters
 BuildTest20192.vcxproj.user
-addons.make
+# addons.make
 icon.aps
 icon.rc
 obj/*
