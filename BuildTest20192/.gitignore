@@ -1,0 +1,26 @@
+.DS_Store
+
+bin/*
+!data
+bin/data/settings.xml
+
+# Mac
+resources/*
+config.make
+BuildTest20192.xcodeproj
+Makefile
+openFrameworks-Info.plist
+Project.xcconfig
+addons.make
+
+# Win
+BuildTest20192.sdf
+BuildTest20192.sln
+BuildTest20192.vcxproj
+BuildTest20192.vcxproj.filters
+BuildTest20192.vcxproj.user
+addons.make
+icon.aps
+icon.rc
+obj/*
+.vs
