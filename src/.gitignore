@@ -1,0 +1,26 @@
+.DS_Store
+
+bin/*
+!data
+bin/data/settings.xml
+
+# Mac
+resources/*
+config.make
+%%FINE_NAME%%.xcodeproj
+Makefile
+openFrameworks-Info.plist
+Project.xcconfig
+# addons.make
+
+# Win
+%%FINE_NAME%%.sdf
+%%FINE_NAME%%.sln
+%%FINE_NAME%%.vcxproj
+%%FINE_NAME%%.vcxproj.filters
+%%FINE_NAME%%.vcxproj.user
+# addons.make
+icon.aps
+icon.rc
+obj/*
+.vs

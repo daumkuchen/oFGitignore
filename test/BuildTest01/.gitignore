@@ -7,18 +7,18 @@ bin/data/settings.xml
 # Mac
 resources/*
 config.make
-BuildTest2019.xcodeproj
+BuildTest01.xcodeproj
 Makefile
 openFrameworks-Info.plist
 Project.xcconfig
 # addons.make
 
 # Win
-BuildTest2019.sdf
-BuildTest2019.sln
-BuildTest2019.vcxproj
-BuildTest2019.vcxproj.filters
-BuildTest2019.vcxproj.user
+BuildTest01.sdf
+BuildTest01.sln
+BuildTest01.vcxproj
+BuildTest01.vcxproj.filters
+BuildTest01.vcxproj.user
 # addons.make
 icon.aps
 icon.rc
